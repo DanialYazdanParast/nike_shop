@@ -7,7 +7,7 @@
 
 ## Description 
 
-Nike Shop is a store that specializes in Nike shoes, built using **Flutter** and **Dart** programming languages, with state management **Bloc** and **Hive** internal database integration.
+Nike Shop is a specialized store for Nike shoes, built using **Flutter** and **Dart** programming languages, with **Bloc** state management and **Hive** internal database integration (a NoSQL database for local data storage).
 
 ## Screenshots
 
